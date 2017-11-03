@@ -7,3 +7,5 @@ i. 3 levels of users- Admin, Tutor, Student.
 ii. Admin and tutor can read and edit blog posts, but student can only read a post and can't write unless admin provides permission.
 
 iii. The blog posts can then be saved html format.
+
+iv. Versions can be updated and previous versions can also be viewed.
